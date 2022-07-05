@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 11-student.py
-# Brennan D Baraban <375@holbertonschool.com>
+# 9-student.py
+# Auth: James Obekpa
 """Defines a class Student."""
 
 
