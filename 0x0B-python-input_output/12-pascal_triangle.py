@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 14-pascal_triangle.py
-# Brennan D Baraban <375@holbertonschool.com>
+# 12-pascal_triangle.py
+# Auth: James Obekpa
 """Defines a Pascal's Triangle function."""
 
 
