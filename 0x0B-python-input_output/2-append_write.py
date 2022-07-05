@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 4-append_write.py
+# 2-append_write.py
 # Auth: James Obekpa
 """Defines a file-appending function."""
 
