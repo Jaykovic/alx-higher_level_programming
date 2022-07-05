@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-append_write.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Auth: James Obekpa
 """Defines a file-appending function."""
 
 
